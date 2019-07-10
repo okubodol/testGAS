@@ -4,7 +4,7 @@ function myFunction() {
   var sheet = ss.getActiveSheet() ;
   //var range = sheet.getRange(1,2,3);
   var cell = sheet.getRange('A1');
-  cell.setValue("cccaaAS");
+  cell.setValue("cccaaddddAS");
   cell.setBackground('green');
   //range.setValue("cccAS");
 }
